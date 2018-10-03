@@ -1,0 +1,93 @@
+.indexs {
+  background-image: url(original.gif);
+  background-size: 100%;
+  background-repeat: no-repeat;  
+  background-attachment: fixed;
+  background-color: dodgerblue;
+}
+p {
+  color: black;
+  font-family: 'Cabin Sketch', cursive;
+}
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Monoton', cursive;
+}
+.topic-about {
+  font-family: 'Sacramento', cursive;
+  color: blue
+}
+ul {
+
+}
+.nav {
+  list-style-type: none;
+  margin: -8px;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000080;
+}
+.nav li {
+  float: left;
+}
+.nav li a {
+  display: block;
+  color: #FFB101;
+  text-decoration: none;
+  text-align: center;
+  font-family: 'Great Vibes', cursive;
+  padding: 14px 16px;
+}
+
+.funs {
+  text-align: center;
+  margin: auto;
+}
+
+.background2 {
+  background-image: url(animebackground.gif);
+  background-size: 100%;
+  background-repeat: no-repeat;  
+  background-attachment: fixed;
+  background-color: dodgerblue;
+  color: green;
+}
+
+.table {
+  background-color: #FFCC99;
+}
+
+.background3{
+  background-image: url(animebackground2.gif);
+  background-size: 100%;
+  background-repeat: no-repeat;  
+  background-attachment: fixed;
+  background-color: dodgerblue;
+   color: black;
+}
+
+.background4{
+  background-image: url(animebackground4.gif);
+  background-size: 100%;
+  background-repeat: no-repeat;  
+  background-attachment: fixed;
+  background-color: dodgerblue;
+   color: white;
+}
+
+#rinfo{
+  width: 68%;
+  margin-top: 16px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgba(255,255,255,0.5);
+}
+
+#ainfo{
+  width: 68%;
+  margin-top: auto;
+  margin-left: 12;
+  margin-right: auto;
+  background-color: rgba(255,255,255,0.5);
+}
